@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  min-height: 100vh;
+  position: relative; /* Required for the pseudo-element to stay inside */
+}
+
+body::before {
+  content: "";
+  background-image: url("images/15.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+  /* The Magic Lines: */
+  position: fixed; /* Keeps it in place while scrolling */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0.6;    /* Adjust this (0.1 to 0.9) for less/more opacity */
+  z-index: -1;     /* Places the image BEHIND your content */
+}
+
+p {
+  color: white;
+  font-size:16px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+  font-weight: bold; /* Thicker fonts are always easier to read on images */
+}
