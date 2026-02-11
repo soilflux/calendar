@@ -27,11 +27,12 @@ body::before {
 
 p {
   color: hotpink;
-  font-size:20px;
+  font-size:18px;
   text-shadow: 
-  0px 0px 6px rgba(0, 0, 0, 1),
-  0px 0px 6px rgba(0, 0, 0, 1),
-  0px 0px 6px rgba(0, 0, 0, 1);
+  0px 0px 12px rgba(40, 0, 40, 1),
+  0px 0px 12px rgba(40, 0, 40, 1),
+  0px 0px 12px rgba(40, 0, 40, 1);
+  font-family: 'Inter', sans-serif;
   
   font-weight: bold; /* Thicker fonts are always easier to read on images */
 }
