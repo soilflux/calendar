@@ -12,4 +12,12 @@ the day i named my day samira
 :::a
 the day i chose a sign over two pictures of a hot drooling girl
 142
+
+021026
+:::s
+the day i got a lobotomy
+142
+:::a
+the day i got sidetracked by my wiener
+141
 `;
