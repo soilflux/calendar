@@ -23,7 +23,7 @@ body::before {
 
 p {
   color: white;
-  font-size:16px;
+  font-size:20px;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
   font-weight: bold; /* Thicker fonts are always easier to read on images */
 }
