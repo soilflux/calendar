@@ -20,4 +20,12 @@ the day i got a lobotomy
 :::a
 the day i got sidetracked by my wiener
 141
+
+021126
+:::s
+the day beans became my favorite food
+141
+:::a
+the day i planned a valentines day dinner
+141
 `;
