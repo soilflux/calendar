@@ -12,7 +12,7 @@ html {
 
 body::before {
   content: "";
-  background-image: var(--bg-image, url("images/15.png")); 
+  background-image: var(--bg-image); 
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;

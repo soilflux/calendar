@@ -27,7 +27,7 @@ year = String(fullYear).slice(-2);
 
 let id = "a";
 
-document.body.style.setProperty('--bg-image', "url(id + "Winners/" + month + day + year + ".png)");
+document.body.style.setProperty('--bg-image', "url(" + id + "Winners/" + month + day + year + ".png)");
 
 todaysText = daysText.split(month + day + year);
 todaysText = todaysText[1].split("date:::");
