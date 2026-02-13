@@ -20,7 +20,7 @@ switch (true) {
     phaseOfDay = "unknown";
 }
 
-const day = String(now.getDate()).padStart(2, '0');
+const day = String(now.getDate()-1).padStart(2, '0');
 const month = String(now.getMonth() + 1).padStart(2, '0');
 const fullYear = now.getFullYear();
 year = String(fullYear).slice(-2);
