@@ -36,10 +36,10 @@ todaysText = todaysText[1].split("\n");
 textBlock = "";
 for (var i = 0; i < todaysText.length; i++) {
   if (todaysText[i].startsWith("the " + phaseOfDay)) {
-    textBlock += todaysText[i] + "<br>";
+    textBlock += todaysText[i] + "<br> on ";
   }
   if (todaysText[i].startsWith("the day")) {
-    textBlock += "on " + todaysText[i] + "<br>";
+    textBlock +=  todaysText[i] + "<br>";
   }
   if (todaysText[i].endsWith(" lbs")) {
     textBlock += todaysText[i] + "<br>";
