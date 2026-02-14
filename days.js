@@ -39,5 +39,20 @@ the day that i grew balls:o
 the morning i said i love when she throws up
 the afternoon i laid on my back in bed
 the evening i got subjugated cuz her balls were bigger
+the night i listened to obnoxious puhuhus in bed before sleeping
 the day i focused on recovering
+
+date:::021326
+:::s
+the morning i considered dying to be my easiest option:3
+the afternoon i learned puhuhu
+the evening i failed to do basic math
+the day i would really like to redo
+141 lbs
+:::a
+the morning i slept in
+the afternoon her car was fixed but wasn’t
+the evening i felt too guilty to have soda
+the day i didn't know whether to be sad or excited
+143 lbs
 `;
