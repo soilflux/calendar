@@ -20,7 +20,7 @@ switch (true) {
     phaseOfDay = "unknown";
 }
 
-const day = String(now.getDate()-1).padStart(2, '0');
+const day = String(now.getDate()-7).padStart(2, '0');
 const month = String(now.getMonth() + 1).padStart(2, '0');
 const fullYear = now.getFullYear();
 year = String(fullYear).slice(-2);
@@ -30,20 +30,27 @@ let id = "a";
 document.body.style.setProperty('--bg-image', "url(" + id + "Winners/" + month + day + year + ".png)");
 
 todaysText = daysText.split(month + day + year);
+thisWeeksText = todaysText[1].split(`${id}::w `);
+thisWeeksText = thisWeeksText[1].split("\n");
 todaysText = todaysText[1].split("date:::");
-todaysText = todaysText[0].split(":::" + id);
+todaysText = todaysText[0].split(`${id}:::`);
 todaysText = todaysText[1].split("\n");
 textBlock = "";
+weight = "";
+
+
 for (var i = 0; i < todaysText.length; i++) {
   if (todaysText[i].startsWith("the " + phaseOfDay)) {
-    textBlock += todaysText[i] + "<br> on ";
+    textBlock += todaysText[i] + "<br> during ";
   }
   if (todaysText[i].startsWith("the day")) {
-    textBlock +=  todaysText[i] + "<br>";
+    textBlock +=  todaysText[i] + "<br> during ";
   }
   if (todaysText[i].endsWith(" lbs")) {
-    textBlock += todaysText[i] + "<br>";
+    weight += todaysText[i] + "<br>";
   }
 }
-document.getElementById("dayText").innerHTML = textBlock;
+
+textBlock += thisWeeksText[0] + "<br>";
+document.getElementById("dayText").innerHTML = textBlock + weight;
 
