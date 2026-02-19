@@ -93,6 +93,38 @@ the evening i had cinnamon water w oats
 the day i was too embarassed to plunge a toilet
 143 lbs
 
+date:::021626
+s:::
+the night i slept through
+the morning i domesticated a mountain lion
+the afternoon i researched penises
+the evening he neglected me </3
+the day i decided to try to be less serious:3
+141 lbs
+a:::
+the night i wanted a pepsi
+the morning my eye hurts
+the afternoon i kept track of an irrelevant argument about clipping
+the evening my poop didn't make a mess
+the day i got zero correct in the death game </3
+ lbs
+
+date:::02xx26
+s:::
+the night
+the morning
+the afternoon
+the evening
+the day
+ lbs
+a:::
+the night
+the morning
+the afternoon
+the evening
+the day
+ lbs
+
 date:::02xx26
 s:::
 the night
