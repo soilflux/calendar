@@ -107,23 +107,39 @@ the morning my eye hurts
 the afternoon i kept track of an irrelevant argument about clipping
 the evening my poop didn't make a mess
 the day i got zero correct in the death game </3
- lbs
+143? lbs
 
-date:::02xx26
+date:::021726
+s:::
+the night i slept through
+the morning i got lost in the fog
+the afternoon he figured out just how stubborn i can be
+the evening we decided on war
+the day we decided to play by our own game rules:o
+140 lbs
+a:::
+the night i drank pepsi before the afternoon i drank pepsi
+the morning my voice felt weak
+the afternoon she wouldn't shut up
+the evening i cried
+the day i felt helpless
+143? lbs
+
+date:::021826
 s:::
 the night
-the morning
-the afternoon
-the evening
-the day
- lbs
+the morning i decided i will be more angelic than i was before
+the afternoon i realized it's easier for u to think for me:o
+the evening i decided to learn about new words
+the day 
+141 lbs
 a:::
 the night
-the morning
-the afternoon
-the evening
-the day
- lbs
+the morning a pepsi ruined my sleep schedule
+the afternoon i realized im irreplaceable
+the evening i learned i should assume she misses the small details:3
+the day i decided on a quiz structure
+142 lbs
 
 date:::02xx26
 s:::
