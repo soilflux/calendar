@@ -118,7 +118,7 @@ the evening we decided on war
 the day we decided to play by our own game rules:o
 140 lbs
 a:::
-the night i drank pepsi before the afternoon i drank pepsi
+the night i appreciated the value of alladin improv
 the morning my voice felt weak
 the afternoon she wouldn't shut up
 the evening i cried
@@ -127,19 +127,230 @@ the day i felt helpless
 
 date:::021826
 s:::
-the night
+the night i slept through
 the morning i decided i will be more angelic than i was before
 the afternoon i realized it's easier for u to think for me:o
 the evening i decided to learn about new words
-the day 
+the day i decided to ignore context and embrace literality!
 141 lbs
 a:::
-the night
+the night i drank pepsi before the afternoon i drank pepsi
 the morning a pepsi ruined my sleep schedule
 the afternoon i realized im irreplaceable
 the evening i learned i should assume she misses the small details:3
 the day i decided on a quiz structure
 142 lbs
+
+date:::021926
+s:::
+the night i slept through
+the morning i fantasized abt taking a nap in his lap like a cat while he plays video games
+the afternoon i realized lunch is overrated</3
+the evening i decided to learn to cook more and planned my first book!
+the day
+141 lbs
+a:::
+the night i realized my ideal hangout
+the morning i slept through
+the afternoon i wondered how strong her arms are
+the evening i failed to convince my gf to cook me pepsi
+the day i chose hopscotch over campfire reading at mount fuji
+141 lbs
+
+date:::022026
+s:::
+the night i slept through
+the morning im excited but nervous
+the afternoon i didn't want to let go of him
+the evening i tried the ocarina of time randomizer:3 &found the cow!
+the day i smiled so much my face hurt<3
+141? lbs
+a:::
+the night i stayed up too late coding nonsense
+the morning im anxious
+the afternoon i hugged her after a long time
+the evening i watched a minecraft nerd:o
+the day i received gifts
+141? lbs
+
+date:::022126
+s:::
+the night i learned about power imbalances:o
+the morning i let my insecurities get the best of me:o
+the afternoon i cleaned
+the evening i watched baking shows<3
+the day i craved relaxation
+139 lbs
+a:::
+the night i pissed in her mouth
+the morning i got pissed
+the afternoon i reflected
+the evening i evaluated the best time to get drunk
+the day i suspected her
+141? lbs
+
+s::w the week of playing by new rules
+a::w the week i saw her again
+
+date:::022226
+s:::
+the night of anxiousness
+the morning of reflection and consideration
+the afternoon i got my hair done
+the evening i spent at the mosque
+the day of worry
+139 lbs
+a:::
+the night i was a crybaby
+the morning i was a crybaby
+the afternoon i was a crybaby
+the evening i was irritable
+the day i played the envelope game
+141? lbs
+
+date:::022326
+s:::
+the night i slept through
+the morning i considered the positive impact of suffering
+the afternoon i worked
+the evening i cried and slept
+the day i wanted to cocoon myself
+ lbs
+a:::
+the night i plotted discomfort
+the morning i woke up
+the afternoon i did nothing
+the evening i forgot how to play the death game
+the day i plotted discomfort
+ lbs
+
+date:::022426
+s:::
+the night i slept through
+the morning i got lost
+the afternoon i worked
+the evening i became evil?>:3
+the day i didn't name
+ lbs
+a:::
+the night im sad
+the morning im sad
+the afternoon im sad
+the evening i realized her perfection
+the day i chose to embrace fantasy
+ lbs
+
+date:::022526
+s:::
+the night i didn't name
+the morning i longed to be ur cat
+the afternoon i drank coffee and read:o
+the evening
+the day
+139 lbs
+a:::
+the night i felt satisfied
+the morning i slept through
+the afternoon i slept through
+the evening i played the detective game
+the day i realized i've been neglecting to manage her health
+142 lbs
+
+date:::02xx26
+s:::
+the night
+the morning
+the afternoon
+the evening
+the day
+ lbs
+a:::
+the night
+the morning
+the afternoon
+the evening
+the day
+ lbs
+
+date:::02xx26
+s:::
+the night
+the morning
+the afternoon
+the evening
+the day
+ lbs
+a:::
+the night
+the morning
+the afternoon
+the evening
+the day
+ lbs
+
+date:::02xx26
+s:::
+the night
+the morning
+the afternoon
+the evening
+the day
+ lbs
+a:::
+the night
+the morning
+the afternoon
+the evening
+the day
+ lbs
+
+date:::02xx26
+s:::
+the night
+the morning
+the afternoon
+the evening
+the day
+ lbs
+a:::
+the night
+the morning
+the afternoon
+the evening
+the day
+ lbs
+
+date:::02xx26
+s:::
+the night
+the morning
+the afternoon
+the evening
+the day
+ lbs
+a:::
+the night
+the morning
+the afternoon
+the evening
+the day
+ lbs
+
+date:::02xx26
+s:::
+the night
+the morning
+the afternoon
+the evening
+the day
+ lbs
+a:::
+the night
+the morning
+the afternoon
+the evening
+the day
+ lbs
 
 date:::02xx26
 s:::
