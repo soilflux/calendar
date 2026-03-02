@@ -230,7 +230,7 @@ the night i slept through
 the morning i got lost
 the afternoon i worked
 the evening i became evil?>:3
-the day i didn't name
+the day i became evil!
  lbs
 a:::
 the night im sad
@@ -242,10 +242,10 @@ the day i chose to embrace fantasy
 
 date:::022526
 s:::
-the night i didn't name
+the night i slept through
 the morning i longed to be ur cat
 the afternoon i drank coffee and read:o
-the evening
+the evening i embraced cold floor
 the day
 139 lbs
 a:::
@@ -256,69 +256,69 @@ the evening i played the detective game
 the day i realized i've been neglecting to manage her health
 142 lbs
 
-date:::02xx26
+date:::022626
 s:::
-the night
-the morning
-the afternoon
-the evening
-the day
- lbs
+the night i slept through
+the morning i was dizzy
+the afternoon i ate chicken salad:3
+the evening i forgot u couldn't read my mind:3
+the day of becoming good again
+141 lbs
 a:::
-the night
-the morning
-the afternoon
-the evening
-the day
- lbs
+the night i was overly pleased with myself
+the morning i slept through
+the afternoon i slept through
+the evening i chose a bad research topic
+the day my brain was stuck in yesterday
+142 lbs
 
-date:::02xx26
+date:::022726
 s:::
-the night
-the morning
-the afternoon
-the evening
-the day
- lbs
+the night i slept through
+the morning i almost ate glass
+the afternoon i accepted defeat
+the evening i had a panic attack:o
+the day that everything went wrong
+140 lbs
 a:::
-the night
-the morning
-the afternoon
-the evening
-the day
- lbs
+the night i did cardio
+the morning i substituted oatmeal for popcorn
+the afternoon i slept through
+the evening i ate salad
+the day fun was cancelled
+142? lbs
 
-date:::02xx26
+date:::022826
 s:::
-the night
-the morning
-the afternoon
-the evening
-the day
- lbs
+the night i slept through
+the morning i was barely awake
+the afternoon i read
+the evening i ate a sweet potato sushi roll
+the day i did mostly nothing
+140 lbs
 a:::
-the night
-the morning
-the afternoon
-the evening
-the day
- lbs
+the night i organized
+the morning i got mad at stupid people
+the afternoon i slept through
+the evening i floundered in china
+the day i learned not to interact
+142? lbs
 
-date:::02xx26
+date:::030126
 s:::
-the night
-the morning
-the afternoon
-the evening
-the day
- lbs
+the night i slept through
+the morning i started my period :c
+the afternoon i attempted productivity
+the evening i learned that pinecones do not belong inside
+the day i wrote a lot of lists
+141 lbs
 a:::
-the night
-the morning
-the afternoon
-the evening
+the night i let go
+the morning i shit
+the afternoon i slept through
+the evening i insulted myself
 the day
- lbs
+140 lbs
 
 date:::02xx26
 s:::
