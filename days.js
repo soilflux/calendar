@@ -304,6 +304,11 @@ the evening i floundered in china
 the day i learned not to interact
 142? lbs
 
+s::w the week
+a::w the week i learned how to plan an hour
+a::m the month i welcomed discomfort
+s::m the month of tragic happenings, stress, and new mindsets
+
 date:::030126
 s:::
 the night i slept through
@@ -320,7 +325,7 @@ the evening i insulted myself
 the day
 140 lbs
 
-date:::02xx26
+date:::03xx26
 s:::
 the night
 the morning
@@ -336,7 +341,7 @@ the evening
 the day
  lbs
 
-date:::02xx26
+date:::03xx26
 s:::
 the night
 the morning
@@ -352,7 +357,7 @@ the evening
 the day
  lbs
 
-date:::02xx26
+ date:::03xx26
 s:::
 the night
 the morning
@@ -367,4 +372,102 @@ the afternoon
 the evening
 the day
  lbs
+
+ date:::03xx26
+s:::
+the night
+the morning
+the afternoon
+the evening
+the day
+ lbs
+a:::
+the night
+the morning
+the afternoon
+the evening
+the day
+ lbs
+
+ date:::03xx26
+s:::
+the night
+the morning
+the afternoon
+the evening
+the day
+ lbs
+a:::
+the night
+the morning
+the afternoon
+the evening
+the day
+ lbs
+
+ date:::03xx26
+s:::
+the night
+the morning
+the afternoon
+the evening
+the day
+ lbs
+a:::
+the night
+the morning
+the afternoon
+the evening
+the day
+ lbs
+
+ date:::03xx26
+s:::
+the night
+the morning
+the afternoon
+the evening
+the day
+ lbs
+a:::
+the night
+the morning
+the afternoon
+the evening
+the day
+ lbs
+
+ date:::03xx26
+s:::
+the night
+the morning
+the afternoon
+the evening
+the day
+ lbs
+a:::
+the night
+the morning
+the afternoon
+the evening
+the day
+ lbs
+
+ date:::03xx26
+s:::
+the night
+the morning
+the afternoon
+the evening
+the day
+ lbs
+a:::
+the night
+the morning
+the afternoon
+the evening
+the day
+ lbs
+
+
 `;

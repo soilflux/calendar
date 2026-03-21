@@ -20,10 +20,10 @@ switch (true) {
     phaseOfDay = "unknown";
 }
 
-const day = String(now.getDate()-7).padStart(2, '0');
-const month = String(now.getMonth() + 1).padStart(2, '0');
+const day = String(now.getDate()).padStart(2, '0');
+const month = String(now.getMonth()).padStart(2, '0');
 const fullYear = now.getFullYear();
-year = String(fullYear).slice(-2);
+const year = String(fullYear).slice(-2);
 
 let id = "a";
 
@@ -32,6 +32,8 @@ document.body.style.setProperty('--bg-image', "url(" + id + "Winners/" + month +
 todaysText = daysText.split(month + day + year);
 thisWeeksText = todaysText[1].split(`${id}::w `);
 thisWeeksText = thisWeeksText[1].split("\n");
+thisMonthsText = todaysText[1].split(`${id}::m `);
+thisMonthsText = thisMonthsText[1].split("\n");
 todaysText = todaysText[1].split("date:::");
 todaysText = todaysText[0].split(`${id}:::`);
 todaysText = todaysText[1].split("\n");
@@ -52,5 +54,6 @@ for (var i = 0; i < todaysText.length; i++) {
 }
 
 textBlock += thisWeeksText[0] + "<br>";
+textBlock += thisMonthsText[0] + "<br>";
 document.getElementById("dayText").innerHTML = textBlock + weight;
 
