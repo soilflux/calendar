@@ -53,7 +53,7 @@ for (var i = 0; i < todaysText.length; i++) {
   }
 }
 
-textBlock += thisWeeksText[0] + "<br>";
+textBlock += thisWeeksText[0] + "<br> during";
 textBlock += thisMonthsText[0] + "<br>";
 document.getElementById("dayText").innerHTML = textBlock + weight;
 
